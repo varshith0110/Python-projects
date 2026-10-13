@@ -1,0 +1,20 @@
+# Python environment and cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Generated files
+cache/
+extracted_images/
+page_images/
+workspace/
+*.mp3
+*.log
+
+# IDE settings
+.idea/
+.vscode/
